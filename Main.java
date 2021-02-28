@@ -24,3 +24,12 @@ class Main {
 }
 
 
+// arrays:
+public class Main {
+    public static String[] get() {
+		// String [] نوع المصفوفة
+        String [] array = {"Barmej", "Ahmad", "Code" };      
+		
+        return array;
+    }
+}
